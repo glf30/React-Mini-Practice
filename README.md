@@ -3,7 +3,7 @@
 ## Project 1: Menu App
 
 Build a simple restaurant-style menu that displays a list of items.  
-Each item should have a **name**, **price**, an **availble** boolean and a button to “Add to Order.”
+Each item should have a **name**, **price**, an **available** boolean and a button to “Add to Order.”
 
 ### Requirements
 - In your App.jsx create an array of food items (name + price + id + available (boolean)).
